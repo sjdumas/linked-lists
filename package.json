@@ -1,0 +1,21 @@
+{
+	"name": "linked-lists",
+	"version": "1.0.0",
+	"description": "This is a required project - Linked Lists - for [The Odin Project](https://www.theodinproject.com/).",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sjdumas/linked-lists.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/sjdumas/linked-lists/issues"
+	},
+	"homepage": "https://github.com/sjdumas/linked-lists#readme"
+}
